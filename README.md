@@ -62,3 +62,4 @@ Leaderboard: Store and display high scores from previous quiz attempts.
 Start the quiz now and test your knowledge! The application is easy to set up and provides a fun, interactive learning experience.
 
 output:
+https://github.com/user-attachments/assets/7bbfda05-b0ba-4331-9f6b-c92aee4ecf04
